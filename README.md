@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
@@ -12,7 +12,6 @@
 
 ## &#127760; Contact
 You can find me on [![LinkedIn][1.1]][1], [![Facebook][1.3]][3] or on [![Instagram][1.2]][2].
-
 
 <!-- Icons -->
 
