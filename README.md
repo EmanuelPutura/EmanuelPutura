@@ -10,20 +10,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelputura&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark" />
 </a>
 
-<!-- (https://github-readme-stats.vercel.app/api?username=emanuelputura&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark)]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelputura&hide=cmake,makefile&layout=compact&show_icons=true&theme=dark)] -->
-
+## &#127760; Contact
 You can find me on [![Instagram][1.2]][2], [![LinkedIn][1.1]][1] or on [![Facebook][1.3]][3].
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/EmanuelPutura/EmanuelPutura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPutura&hide=cmake,makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" />
-</a>
-<a href="https://github.com/EmanuelPutura/EmanuelPutura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelPutura&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,prs,issues&line_height=10" />
-</a>
-
 
 
 <!-- Icons -->
