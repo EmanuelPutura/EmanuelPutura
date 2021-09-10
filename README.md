@@ -3,15 +3,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelputura&hide=cmake,makefile&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find me on [![LinkedIn][1.2]][1.1].
+You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/linkedin_icon.ico (LinkedIn icon without padding)
+[1.1]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/linkedin_icon.ico (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1.1]: https://www.linkedin.com/in/emanuel-vasile-putura-778898172/
+[1]: https://www.linkedin.com/in/emanuel-vasile-putura-778898172/
 
 
 
