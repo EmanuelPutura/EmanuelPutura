@@ -15,6 +15,17 @@
 
 You can find me on [![Instagram][1.2]][2], [![LinkedIn][1.1]][1] or on [![Facebook][1.3]][3].
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
+
 <!-- Icons -->
 
 [1.1]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/linkedin_icon.png (LinkedIn icon without padding)
