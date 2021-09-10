@@ -11,7 +11,7 @@
 </a>
 
 ## &#127760; Contact
-You can find me on [![Instagram][1.2]][2], [![LinkedIn][1.1]][1] or on [![Facebook][1.3]][3].
+You can find me on [![LinkedIn][1.1]][1], [![Facebook][1.3]][3] or on [![Instagram][1.2]][2].
 
 
 <!-- Icons -->
