@@ -3,7 +3,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelputura&hide=cmake,makefile&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+You can find me on [![LinkedIn][1.2]][1.1].
+
+<!-- Icons -->
+
+[1.2]: https://www.flaticon.com/free-icon/linkedin_174857 (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1.1]: linkedin.com/in/emanuel-vasile-putura-778898172
 
 
 
