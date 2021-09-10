@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelputura&hide=cmake,makefile&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find me on [![LinkedIn][1.1]][1], [![Instagram][1.2]][2] or on [![Facebook][1.3]][3].
+You can find me on [![Instagram][1.2]][2], [![LinkedIn][1.1]][1] or on [![Facebook][1.3]][3].
 
 <!-- Icons -->
 
