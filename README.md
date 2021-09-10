@@ -18,7 +18,6 @@ You can find me on [![Instagram][1.2]][2], [![LinkedIn][1.1]][1] or on [![Facebo
 [3]: https://www.facebook.com/putura.emanuel
 
 
-
 <!--
 **EmanuelPutura/EmanuelPutura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
