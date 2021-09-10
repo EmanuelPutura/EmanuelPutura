@@ -8,7 +8,7 @@ You can find me on [![Instagram][1.2]][2], [![LinkedIn][1.1]][1] or on [![Facebo
 <!-- Icons -->
 
 [1.1]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/linkedin_icon.png (LinkedIn icon without padding)
-[1.2]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/instagram_icon2.png
+[1.2]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/instagram_icon.png
 [1.3]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/facebook_icon.png
 
 <!-- Links to your social media accounts -->
