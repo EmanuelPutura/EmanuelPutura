@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 ## &#x1f4c8; GitHub Stats
-
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelputura&hide=cmake,makefile&layout=compact&show_icons=true&theme=dark" />
 </a>
+
+## &#x1f4c8; Preferred languages
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelputura&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark" />
 </a>
