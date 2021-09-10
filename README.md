@@ -11,7 +11,7 @@ You can find me on [![LinkedIn][1.2]][1.1].
 
 <!-- Links to your social media accounts -->
 
-[1.1]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/linkedin.png
+[1.1]: https://www.linkedin.com/in/emanuel-vasile-putura-778898172/
 
 
 
