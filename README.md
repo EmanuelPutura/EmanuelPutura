@@ -22,7 +22,7 @@ You can find me on [![LinkedIn][1.1]][1], [![Facebook][1.3]][3] or on [![Instagr
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/emanuel-vasile-putura-778898172/
+[1]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/linkedin_icon.png
 [2]: https://www.instagram.com/emanuel_putura/
 [3]: https://www.facebook.com/putura.emanuel
 
