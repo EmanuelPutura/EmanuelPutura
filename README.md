@@ -7,7 +7,7 @@ You can find me on [![LinkedIn][1.2]][1.1].
 
 <!-- Icons -->
 
-[1.2]: https://www.flaticon.com/free-icon/linkedin_174857 (LinkedIn icon without padding)
+[1.2]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/linkedin.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
