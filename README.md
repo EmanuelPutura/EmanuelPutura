@@ -1,4 +1,4 @@
-### 👋 About me
+## 👋 About Me
 My name is Emanuel-Vasile Puțura and I am an enthusiastic Computer Science student, looking for opportunities to learn and work.
 
 I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca. Other passions I have, besides those related to Computer Science, include learning about cryptocurrencies and financial markets in general, reading and playing the guitar. 
