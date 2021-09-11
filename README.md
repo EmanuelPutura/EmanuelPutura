@@ -13,18 +13,19 @@ I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca.
 </a>
 
 ## &#127760; Contact
-You can reach out to me through [![LinkedIn][1.1]][1], [![Facebook][1.3]][3] or [![Instagram][1.2]][2], as well as on my mail address at emanuelputura@gmail.com
+You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], as well as on my mail address at emanuelputura@gmail.com
+<!-- [![Instagram][1.2]][2] -->
 
 <!-- Icons -->
 
 [1.1]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/linkedin_icon.png (LinkedIn icon without padding)
-[1.2]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/instagram_icon.png
+<!-- [1.2]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/instagram_icon.png -->
 [1.3]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/facebook_icon.png
 
 <!-- Links to your social media accounts -->
 
 [1]: https://github.com/EmanuelPutura/EmanuelPutura/blob/main/linkedin_icon.png
-[2]: https://www.instagram.com/emanuel_putura/
+<!-- [2]: https://www.instagram.com/emanuel_putura/ -->
 [3]: https://www.facebook.com/putura.emanuel
 
 
