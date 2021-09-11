@@ -16,7 +16,7 @@ I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPutura&hide=makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
+  <img align="center" height = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPutura&hide=makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
 </a>
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelPutura&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,prs,issues" />
