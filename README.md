@@ -13,7 +13,7 @@ I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca.
 </a>
 
 ## &#127760; Contact
-You can find me on [![LinkedIn][1.1]][1], [![Facebook][1.3]][3] or on [![Instagram][1.2]][2].
+You can reach out to me through [![LinkedIn][1.1]][1], [![Facebook][1.3]][3] or [![Instagram][1.2]][2], as well as on my mail address at emanuelputura@gmail.com
 
 <!-- Icons -->
 
