@@ -3,17 +3,25 @@ My name is Emanuel-Vasile Puțura and I am an enthusiastic Computer Science stud
 
 I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca. Other passions I have, besides those related to Computer Science, include mathematics (being a former national maths competitions participant and medalist), learning about cryptocurrencies and financial markets in general, reading and playing the guitar. 
 
+
+## &#127760; Contact
+You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], as well as on my mail address at emanuelputura@gmail.com.
+<!-- [![Instagram][1.2]][2] -->
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelPutura&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,prs,issues" />
 </a>
 
+
 ## 🔧 Preferred Languages
 
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPutura&hide=makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
+
 
 ## 📖 Repos
 
@@ -43,11 +51,6 @@ I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=StudentRS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-
-## &#127760; Contact
-You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], as well as on my mail address at emanuelputura@gmail.com.
-<!-- [![Instagram][1.2]][2] -->
 
 <!-- Icons -->
 
