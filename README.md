@@ -27,7 +27,7 @@ You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], 
 
 <!-- Links to your social media accounts -->
 
-[1]: linkedin.com/in/emanuel-vasile-putura-778898172
+[1]: https://www.linkedin.com/in/emanuel-vasile-putura-778898172/
 <!-- [2]: https://www.instagram.com/emanuel_putura/ -->
 [3]: https://www.facebook.com/putura.emanuel
 
