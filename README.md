@@ -15,6 +15,19 @@ I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPutura&hide=makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
 
+
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+
 ## &#127760; Contact
 You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], as well as on my mail address at emanuelputura@gmail.com.
 <!-- [![Instagram][1.2]][2] -->
