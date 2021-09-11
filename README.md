@@ -19,11 +19,11 @@ I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPutura&hide=makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
 </a>
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelPutura&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelPutura&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,prs,issues" />
 </a>
 
 ## &#127760; Contact
-You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], as well as on my mail address at emanuelputura@gmail.com
+You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], as well as on my mail address at emanuelputura@gmail.com.
 <!-- [![Instagram][1.2]][2] -->
 
 <!-- Icons -->
