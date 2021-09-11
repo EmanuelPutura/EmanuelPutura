@@ -51,6 +51,18 @@ You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=StudentRS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+### Data structures and algorithms
+<a href="https://github.com/EmanuelPutura/CormenBook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=CormenBook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EmanuelPutura/AlgorithmicProblems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=AlgorithmicProblems&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EmanuelPutura/USACO-Training-Problems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=USACO-Training-Problems&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <!-- Icons -->
 
