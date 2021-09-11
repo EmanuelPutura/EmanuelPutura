@@ -17,7 +17,7 @@ I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca.
 
 ## 📖 Repos
 
-### Gaming apps
+### Games
 <a href="https://github.com/EmanuelPutura/ChessGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=ChessGame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -28,6 +28,19 @@ I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca.
 
 <a href="https://github.com/EmanuelPutura/SpaceShooter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=SpaceShooter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+### Utility apps
+<a href="https://github.com/EmanuelPutura/PhotoEditor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=PhotoEditor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EmanuelPutura/Base-Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=Base-Calculator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/EmanuelPutura/StudentRS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelPutura&repo=StudentRS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
