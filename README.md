@@ -4,16 +4,6 @@ My name is Emanuel-Vasile Puțura and I am an enthusiastic Computer Science stud
 I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca. Other passions I have, besides those related to Computer Science, include learning about cryptocurrencies and financial markets in general, reading and playing the guitar. 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/EmanuelPutura/EmanuelPutura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelputura&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark" />
-</a>
-
-## 🔧 Preferred languages
-<a href="https://github.com/EmanuelPutura/EmanuelPutura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelputura&hide=cmake,makefile&layout=compact&show_icons=true&theme=dark" />
-</a>
-
-## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
   <img align="center" height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPutura&hide=makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
