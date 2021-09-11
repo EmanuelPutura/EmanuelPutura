@@ -1,5 +1,6 @@
 ### 👋 About me
-My name is Emanuel-Vasile Puțura and I am an enthusiastic Computer Science student, looking for opportunities to learn and work. I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca. Other passions I have, besides those related to Computer Science, include reading both fiction and philosophy books, playing the guitar, cryptocurrencies and blockchain technology and financial markets in general. 
+My name is Emanuel-Vasile Puțura and I am an enthusiastic Computer Science student, looking for opportunities to learn and work.
+I'm from Romania, currently studying at Babeș-Bolyai University in Cluj-Napoca. Other passions I have, besides those related to Computer Science, include reading both fiction and philosophy books, playing the guitar, cryptocurrencies and blockchain technology and financial markets in general. 
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
