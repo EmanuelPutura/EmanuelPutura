@@ -20,7 +20,7 @@ You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], 
 ## 🔧 Preferred Languages
 
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPutura&hide=makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPutura&hide=makefile,cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
 
 
