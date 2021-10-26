@@ -13,7 +13,7 @@ You can reach out to me through [![LinkedIn][1.1]][1] or [![Facebook][1.3]][3], 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/EmanuelPutura/EmanuelPutura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelPutura&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelPutura&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,prs,issues" />
 </a>
 
 
